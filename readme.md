@@ -1,4 +1,4 @@
-## 🎉 SAYONARA – Senior Farewell Invite 🎉
+##  Invite Template🎉
 
 Welcome to the **Sayonara** repo, your one-stop-shop for the *ultimate* senior send-off invite! We’ve turned farewell feels into a slick, responsive HTML/CSS page that’ll have everyone screaming “I’m there!” in no time. 🚀
 
